@@ -23,14 +23,14 @@ $description = "Git workflow demo";
     <!-- stylesheet -->
     <link rel="stylesheet" href="">
     <!-- title -->
-    <title><?php $title ?></title>
+    <title><?php echo $title ?></title>
 </head>
 <body>
 <!-- header -->
 <div class="container-fluid jumbotron jumbotron-fluid">
-    <h2 class="text-center text-monospace"><?php $jumbotron ?></h2>
+    <h2 class="text-center text-monospace"><?php echo $jumbotron ?></h2>
     <div class="container d-flex justify-content-between">
-        <p><?php $description ?></p>
+        <p><?php echo $description ?></p>
         <p class="lead">Written by Kerrie Low & Rob Wood</p>
     </div>
 </div> <!-- /header -->
