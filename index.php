@@ -37,6 +37,7 @@ $description = "";
 
 <div class="container">
     <h1>Here is an H1!</h1>
+    <h2>Here is an H2!</h2>
 </div>
 <!-- jQuery -->
 <!-- slim jQuery does not support AJAX -->
