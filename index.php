@@ -8,9 +8,9 @@
 // turn on error reporting
 ini_set('display_errors', 1);
 error_reporting(E_ALL);
-$title = "";
-$jumbotron = "";
-$description = "";
+$title = "Donut";
+$jumbotron = "index.php";
+$description = "Git workflow demo";
 ?>
 
 <!DOCTYPE html>
@@ -38,6 +38,7 @@ $description = "";
 <div class="container">
     <h1>Here is an H1!</h1>
     <h2>Here is an H2!</h2>
+    <h3>Here is an H3!</h3>
 </div>
 <!-- jQuery -->
 <!-- slim jQuery does not support AJAX -->
