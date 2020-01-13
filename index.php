@@ -40,6 +40,8 @@ $description = "Git workflow demo";
     <h2>Here is an H2!</h2>
     <h3>Here is an H3!</h3>
     <h4>Here is an H4!</h4>
+    <h5>Here is an H5!</h5>
+
 </div>
 <!-- jQuery -->
 <!-- slim jQuery does not support AJAX -->
