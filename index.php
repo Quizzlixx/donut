@@ -42,7 +42,7 @@ $description = "Git workflow demo";
     <h4>Here is an H4!</h4>
     <h5>Here is an H5!</h5>
     <h6>Here is an H6!</h6>
-    <h7>Here is an H7!</h7>
+    <h8>Here is an H8!</h8>
 
 </div>
 <!-- jQuery -->
